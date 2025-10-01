@@ -22,8 +22,8 @@ A secure student LMS (Learning Management System) named Cloud Campus, using a PH
 Developed an online web-based attendance application, which has been tested by a faculty member of #"BRAC University".
 
 ### 🧾 Basic PHP Invoice Generator
-# A basic web-based survey application for a thesis research.
-# A simple local note-taking app using basic HTML, CSS, and JavaScript.
+-> A basic web-based survey application for a thesis research.
+-> A simple local note-taking app using basic HTML, CSS, and JavaScript.
 
 ## 📚 Currently Learning
 
