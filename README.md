@@ -1,4 +1,4 @@
-# 👨‍💻 Kaoushik | Computer Science Student & Full-Stack Developer
+# 👨‍💻 Kaoushik | Computer Science Graduate & Full-Stack Developer
 
 Hi there! I'm Kaoushik, a passionate Computer Science student with hands-on experience in building full-stack web applications. I love solving problems, learning new technologies, and turning ideas into scalable software. My journey spans across multiple languages and frameworks, with a strong focus on backend development and clean, maintainable code.
 
